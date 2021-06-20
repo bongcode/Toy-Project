@@ -1,4 +1,10 @@
-# Toy-Project
+## Toy-Project(Make Funny Nickname)
 
 
-commit fromg github directly
+#### 프로젝트 계획
+- 주변 친구들과 이야기를 나누다 서로의 별명을 지어주는 과정에서 그 범위가 한정적이다는 것을 알게되었고, 좀더 재미있게 만드는 방법이 있을까? 라는 구상에서 시작함
+
+#### 전략
+- import random을 활용하여 랜덤으로 나올수 있도록 기입
+- '성'과 '이름'을 재미있는 것을 가져와서 변수에 기입
+- while 조건문 기입
